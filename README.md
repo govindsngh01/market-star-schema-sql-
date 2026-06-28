@@ -26,3 +26,12 @@ Focus: Window Functions, CTEs, Business KPIs, and Customer Segmentation.
 [Pareto Analysis] = ( https://github.com/govindsngh01/market-star-schema-sql-/blob/main/Pareto_analysis.png
 
 [Mom growth analysis] = https://github.com/govindsngh01/market-star-schema-sql-/blob/main/Mom_growth_Sales.png
+
+## 4. Key Insights & Conclusion
+This analysis of the Market Star Schema reveals 3 key business insights:
+
+1. **Customer Concentration [Pareto]:** Top 20% of customers contribute to ~XX% of total sales revenue. Business should focus retention on this segment.
+2. **Growth Trend [MoM]:** Sales showed highest growth of +XX% in Month, but a drop of -XX% in Month, indicating seasonality.
+3. **Product Performance [Ranking]:** Top product categories account for majority of profit. Discounting strategy can be optimized for low-margin categories.
+
+**Overall:** The dataset highlights that targeted marketing for high-value customers and optimizing discounts are the biggest levers for revenue growth.
