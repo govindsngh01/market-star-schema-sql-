@@ -23,5 +23,4 @@ Focus: Window Functions, CTEs, Business KPIs, and Customer Segmentation.
 3.  Run queries from `advanced_analysis.sql`
 
 ### Screenshots
-![Pareto Analysis] = (    )
-q3_mom_growth.png
+![Pareto Analysis] = ( https://github.com/govindsngh01/market-star-schema-sql-/blob/main/Pareto_analysis.png   )
