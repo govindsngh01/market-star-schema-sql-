@@ -1,4 +1,4 @@
-# market-star-schema-sql-
+## Market-star-schema-sql-
 SQL Sales Analytics Project | MySQL 8.0 | Star Schema | Window Functions | CTEs
 
 # SQL Sales Analytics - Star Schema Project
@@ -23,5 +23,6 @@ Focus: Window Functions, CTEs, Business KPIs, and Customer Segmentation.
 3.  Run queries from `advanced_analysis.sql`
 
 ### Screenshots
-[Pareto Analysis] = ( https://github.com/govindsngh01/market-star-schema-sql-/blob/main/Pareto_analysis.png 
+[Pareto Analysis] = ( https://github.com/govindsngh01/market-star-schema-sql-/blob/main/Pareto_analysis.png
+
 [Mom growth analysis] = https://github.com/govindsngh01/market-star-schema-sql-/blob/main/Mom_growth_Sales.png
