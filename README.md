@@ -33,9 +33,7 @@ This analysis of the Market Star Schema reveals 3 key business insights:
 1. **Pareto Analysis [80/20 Rule]:** Only top X customers contribute to 80% of the total company profit. 
     For example, `EMILY PHAN` and `GRANT CARROLL` alone generated ₹49,541 in profit. 
     This means business should prioritize VIP retention programs for this small group.
+2. **Month-over-Month Growth Trend:** Sales dropped by 11.37% in Sep-02 vs Aug-01, but recovered strongly with a 22.15% growth in Sep-03. This indicates high volatility/seasonality and needs deeper investigation.
+3. **Product Performance [Ranking]:** Top product categories account for majority of profit. Discounting strategy can be optimized for low-margin categories.
    
-3. **Month-over-Month Growth Trend:** Sales dropped by 11.37% in Sep-02 vs Aug-01, but recovered strongly with a 22.15% growth in Sep-03. This indicates high volatility/seasonality and needs deeper investigation.
-4. 
-5. **Product Performance [Ranking]:** Top product categories account for majority of profit. Discounting strategy can be optimized for low-margin categories.
-
 **Overall:** The dataset highlights that targeted marketing for high-value customers and optimizing discounts are the biggest levers for revenue growth.
